@@ -2,11 +2,11 @@ let todosOsLivros = [];
 let filtroTexto = '';
 let categoriaSelecionada = '';
 
-async function buscarDados() {
+async function buscarLivros() {
     const response = await fetch('livros.json');
-    const dados = await response.json();
+    const livros = await response.json();
 
-    todosOsLivros = dados;
+    todosOsLivros = livros;
     renderizar(todosOsLivros);
 }
 
@@ -89,4 +89,4 @@ function limparFiltros() {
 }
 
 
-buscarDados();
+buscarLivros();
