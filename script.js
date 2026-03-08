@@ -7,7 +7,44 @@ async function buscarLivros() {
     const livros = await response.json();
 
     todosOsLivros = livros;
+
+    renderizarCategorias();
     renderizar(todosOsLivros);
+}
+
+function renderizarCategorias() {
+    const container = document.getElementById('filtroCategorias');
+
+    const categoriasUnicas = [...new Set(todosOsLivros.map(livro => livro.categoria))];
+
+    container.innerHTML = '';
+
+    container.innerHTML += `
+        <button class="btn-category active" data-categoria="">
+            Todos
+        </button>
+    `;
+
+    categoriasUnicas.forEach(categoria => {
+        container.innerHTML += `
+            <button class="btn-category" data-categoria="${categoria}">
+                ${categoria}
+            </button>
+        `;
+    });
+
+    document.querySelectorAll('.btn-category').forEach(botao => {
+        botao.addEventListener('click', function () {
+            categoriaSelecionada = this.dataset.categoria;
+
+            document.querySelectorAll('.btn-category').forEach(b => {
+                b.classList.remove('active');
+            });
+
+            this.classList.add('active');
+            aplicarFiltros();
+        });
+    });
 }
 
 function renderizar(lista) {
@@ -58,22 +95,10 @@ function aplicarFiltros() {
     renderizar(resultado);
 }
 
-
 document.getElementById('inputBusca').addEventListener('input', (e) => {
     filtroTexto = e.target.value.toLowerCase();
     aplicarFiltros();
 });
-
-function filtrarCategoria(cat, btn) {
-    categoriaSelecionada = cat;
-
-    document.querySelectorAll('.btn-category').forEach(b => {
-        b.classList.remove('active');
-    });
-
-    btn.classList.add('active');
-    aplicarFiltros();
-}
 
 function limparFiltros() {
     document.getElementById('inputBusca').value = '';
@@ -84,9 +109,12 @@ function limparFiltros() {
         b.classList.remove('active');
     });
 
-    document.querySelector('.btn-category').classList.add('active');
+    const botaoTodos = document.querySelector('.btn-category[data-categoria=""]');
+    if (botaoTodos) {
+        botaoTodos.classList.add('active');
+    }
+
     renderizar(todosOsLivros);
 }
-
 
 buscarLivros();
