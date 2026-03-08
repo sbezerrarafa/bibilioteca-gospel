@@ -1,11 +1,59 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Bibliote Gospel</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Biblioteca Gospel | Catálogo Digital</title>
+    
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;600;800&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&display=swap" rel="stylesheet">
+    <link rel="icon" type="image/x-icon" href="assets/imgs/favicon.png">
+    <link rel="stylesheet" href="./style.css">
+    
 </head>
 <body>
-  <h1>olá Mateus</h1>
+
+    <nav class="navbar-custom px-3 py-3">
+        <div class="main-container d-flex align-items-center p-0">
+            <img src="assets/imgs/logo-biblioteca.PNG" alt="Logo" style="height: 50px; margin-right: 12px;" onerror="this.style.display='none'">
+        </div>
+    </nav>
+
+    <div class="main-container">
+        <div class="search-container">
+            <span class="material-symbols-outlined">search</span>
+            <input type="text" id="inputBusca" class="search-bar w-100" placeholder="Buscar por título ou autor...">
+        </div>
+
+        <div class="category-scroll" id="filtroCategorias">
+            <button class="btn-category active" onclick="filtrarCategoria('', this)">Todos</button>
+            <button class="btn-category" onclick="filtrarCategoria('Teologia', this)">Teologia</button>
+            <button class="btn-category" onclick="filtrarCategoria('Vida Cristã', this)">Vida Cristã</button>
+            <button class="btn-category" onclick="filtrarCategoria('Biografias', this)">Biografias</button>
+            <button class="btn-category" onclick="filtrarCategoria('Estudos', this)">Estudos Bíblicos</button>
+            <button class="btn-category" onclick="filtrarCategoria('História', this)">História</button>
+            <button class="btn-category" onclick="filtrarCategoria('Devocionais', this)">Devocionais</button>
+        </div>
+
+        <div class="book-grid" id="listaLivros">
+            </div>
+
+        <div class="py-5 d-block d-lg-none"></div>
+    </div>
+
+    <nav class="bottom-nav">
+        <a href="#" class="nav-link-custom active">
+            <span class="material-symbols-outlined">grid_view</span>CATÁLOGO
+        </a>
+        <a href="#" class="nav-link-custom">
+            <span class="material-symbols-outlined">import_contacts</span>LENDO
+        </a>
+        <a href="#" class="nav-link-custom">
+            <span class="material-symbols-outlined">favorite</span>FAVORITOS
+        </a>
+    </nav>
+
+    <script src="script.js"></script>
 </body>
 </html>

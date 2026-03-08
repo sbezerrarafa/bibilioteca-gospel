@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "titulo": "A Conversão de Saulo",
+    "autor": "George Whitefield",
+    "categoria": "Sermões",
+    "arquivo": "assets/livros/a-conversao-de-saulo.pdf",
+    "capa": "assets/capas/a-conversao-de-saulo.png"
+  },
+  {
+    "id": 2,
+    "titulo": "A Coroa de Espinhos",
+    "autor": "C. H. Spurgeon",
+    "categoria": "Sermões",
+    "arquivo": "assets/livros/a-coroa-de-espinhos.pdf",
+    "capa": "assets/capas/a-coroa-de-espinhos.png"
+  },
+  {
+    "id": 3,
+    "titulo": "A Criação de Filhos no Poder do Evangelho",
+    "autor": "William P. Farley",
+    "categoria": "Vida Cristã",
+    "arquivo": "assets/livros/a-criacao-de-filhos-no-poder-do-evangelho.pdf",
+    "capa": "assets/capas/a-criacao-de-filhos-no-poder-do-evangelho.png"
+  },
+  {
+    "id": 4,
+    "titulo": "A Descida da Pomba",
+    "autor": "Charles Williams",
+    "categoria": "Teologia",
+    "arquivo": "assets/livros/a-descida-da-pomba.pdf",
+    "capa": "assets/capas/a-descida-da-pomba.png"
+  },
+  {
+    "id": 5,
+    "titulo": "A Família Cristã e os Ataques do Inimigo",
+    "autor": "Elinaldo Renovato",
+    "categoria": "Vida Cristã",
+    "arquivo": "assets/livros/a-familia-crista-e-os-ataques-do-inimigo.pdf",
+    "capa": "assets/capas/a-familia-crista-e-os-ataques-do-inimigo.png"
+  },
+  {
+    "id": 6,
+    "titulo": "A História da Mitologia para Quem Tem Pressa",
+    "autor": "Mark Daniels",
+    "categoria": "Histórico",
+    "arquivo": "assets/livros/a-historia-da-mitologia-para-quem-tem-pressa.pdf",
+    "capa": "assets/capas/a-historia-da-mitologia-para-quem-tem-pressa.png"
+  },
+  {
+    "id": 7,
+    "titulo": "Dicionário Bíblico Baker",
+    "autor": "Tremper Longman III",
+    "categoria": "Estudos Bíblicos",
+    "arquivo": "assets/livros/dicionario-biblico-baker.pdf",
+    "capa": "assets/capas/dicionario-biblico-baker.png"
+  },
+  {
+    "id": 8,
+    "titulo": "Discernimento Espiritual",
+    "autor": "Oswaldo Lôbo Jr",
+    "categoria": "Vida Cristã",
+    "arquivo": "assets/livros/discernimento-espiritual.pdf",
+    "capa": "assets/capas/discernimento-espiritual.png"
+  },
+  {
+    "id": 9,
+    "titulo": "Os Filhos de Jacó: Patriarcado e Primogenitura",
+    "autor": "Braz José do Nascimento Júnior",
+    "categoria": "Estudos Bíblicos",
+    "arquivo": "assets/livros/os-filhos-de-jaco.pdf",
+    "capa": "assets/capas/os-filhos-de-jaco.png"
+  },
+  {
+    "id": 10,
+    "titulo": "O Jesus Histórico",
+    "autor": "Otto Borchert",
+    "categoria": "Teologia",
+    "arquivo": "assets/livros/o-jesus-historico.pdf",
+    "capa": "assets/capas/o-jesus-historico.png"
+  }
+]
