@@ -133,7 +133,7 @@
     "autor": "A. B. Bruce",
     "categoria": "Liderança Cristã",
     "arquivo": "assets/livros/o-treinamento-dos-doze.pdf",
-    "capa": "assets/capas/o-treinamento-dos-doze.png"
+    "capa": "/assets/capas/o-treinamento-dos-doze.png"
   },
   {
     "id": 18,
