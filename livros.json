@@ -5,7 +5,7 @@
     "autor": "George Whitefield",
     "categoria": "Sermões",
     "arquivo": "assets/livros/a-conversao-de-saulo.pdf",
-    "capa": "assets/capas/a-conversao-de-saulo.png"
+    "capa": "assets/capas/a-conversao-de-saulo.PNG"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "autor": "C. H. Spurgeon",
     "categoria": "Sermões",
     "arquivo": "assets/livros/a-coroa-de-espinhos.pdf",
-    "capa": "assets/capas/a-coroa-de-espinhos.png"
+    "capa": "assets/capas/a-coroa-de-espinhos.PNG"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "autor": "William P. Farley",
     "categoria": "Vida Cristã",
     "arquivo": "assets/livros/a-criacao-de-filhos-no-poder-do-evangelho.pdf",
-    "capa": "assets/capas/a-criacao-de-filhos-no-poder-do-evangelho.png"
+    "capa": "assets/capas/a-criacao-de-filhos-no-poder-do-evangelho.PNG"
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "autor": "Charles Williams",
     "categoria": "Teologia",
     "arquivo": "assets/livros/a-descida-da-pomba.pdf",
-    "capa": "assets/capas/a-descida-da-pomba.png"
+    "capa": "assets/capas/a-descida-da-pomba.PNG"
   },
   {
     "id": 5,
@@ -37,7 +37,7 @@
     "autor": "Elinaldo Renovato",
     "categoria": "Vida Cristã",
     "arquivo": "assets/livros/a-familia-crista-e-os-ataques-do-inimigo.pdf",
-    "capa": "assets/capas/a-familia-crista-e-os-ataques-do-inimigo.png"
+    "capa": "assets/capas/a-familia-crista-e-os-ataques-do-inimigo.PNG"
   },
   {
     "id": 6,
@@ -45,7 +45,7 @@
     "autor": "Mark Daniels",
     "categoria": "Histórico",
     "arquivo": "assets/livros/a-historia-da-mitologia-para-quem-tem-pressa.pdf",
-    "capa": "assets/capas/a-historia-da-mitologia-para-quem-tem-pressa.png"
+    "capa": "assets/capas/a-historia-da-mitologia-para-quem-tem-pressa.PNG"
   },
   {
     "id": 7,
@@ -53,7 +53,7 @@
     "autor": "Tremper Longman III",
     "categoria": "Estudos Bíblicos",
     "arquivo": "assets/livros/dicionario-biblico-baker.pdf",
-    "capa": "assets/capas/dicionario-biblico-baker.png"
+    "capa": "assets/capas/dicionario-biblico-baker.PNG"
   },
   {
     "id": 8,
@@ -61,7 +61,7 @@
     "autor": "Oswaldo Lôbo Jr",
     "categoria": "Vida Cristã",
     "arquivo": "assets/livros/discernimento-espiritual.pdf",
-    "capa": "assets/capas/discernimento-espiritual.png"
+    "capa": "assets/capas/discernimento-espiritual.PNG"
   },
   {
     "id": 9,
@@ -69,7 +69,7 @@
     "autor": "Braz José do Nascimento Júnior",
     "categoria": "Estudos Bíblicos",
     "arquivo": "assets/livros/os-filhos-de-jaco.pdf",
-    "capa": "assets/capas/os-filhos-de-jaco.png"
+    "capa": "assets/capas/os-filhos-de-jaco.PNG"
   },
   {
     "id": 10,
@@ -77,7 +77,7 @@
     "autor": "Otto Borchert",
     "categoria": "Teologia",
     "arquivo": "assets/livros/o-jesus-historico.pdf",
-    "capa": "assets/capas/o-jesus-historico.png"
+    "capa": "assets/capas/o-jesus-historico.PNG"
   },
   {
     "id": 11,
@@ -85,7 +85,7 @@
     "autor": "Suzane S. J. Moreira",
     "categoria": "Estudos Bíblicos",
     "arquivo": "assets/livros/a-vida-de-rute.pdf",
-    "capa": "assets/capas/a-vida-de-rute.png"
+    "capa": "assets/capas/a-vida-de-rute.PNG"
   },
   {
     "id": 12,
@@ -93,7 +93,7 @@
     "autor": "Don Baker",
     "categoria": "Vida Cristã",
     "arquivo": "assets/livros/alem-da-dor.pdf",
-    "capa": "assets/capas/alem-da-dor.png"
+    "capa": "assets/capas/alem-da-dor.PNG"
   },
   {
     "id": 13,
@@ -101,7 +101,7 @@
     "autor": "T. L. Osborn",
     "categoria": "Ministério",
     "arquivo": "assets/livros/curai-enfermos.pdf",
-    "capa": "assets/capas/curai-enfermos.png"
+    "capa": "assets/capas/curai-enfermos.PNG"
   },
   {
     "id": 14,
@@ -109,7 +109,7 @@
     "autor": "Aramis C. DeBarros",
     "categoria": "Estudos Bíblicos",
     "arquivo": "assets/livros/doze-homens-uma-missao.pdf",
-    "capa": "assets/capas/doze-homens-uma-missao.png"
+    "capa": "assets/capas/doze-homens-uma-missao.PNG"
   },
   {
     "id": 15,
@@ -117,7 +117,7 @@
     "autor": "Emilio Garofalo Neto",
     "categoria": "Estudos Bíblicos",
     "arquivo": "assets/livros/ester-na-casa-da-persia.pdf",
-    "capa": "assets/capas/ester-na-casa-da-persia.png"
+    "capa": "assets/capas/ester-na-casa-da-persia.PNG"
   },
   {
     "id": 16,
@@ -125,7 +125,7 @@
     "autor": "Material Teológico",
     "categoria": "Teologia",
     "arquivo": "assets/livros/aspectos-da-santificacao.pdf",
-    "capa": "assets/capas/sem-capa.png"
+    "capa": "assets/capas/sem-capa.PNG"
   },
   {
     "id": 17,
@@ -133,7 +133,7 @@
     "autor": "A. B. Bruce",
     "categoria": "Liderança Cristã",
     "arquivo": "assets/livros/o-treinamento-dos-doze.pdf",
-    "capa": "./assets/capas/o-treinamento-dos-doze.png"
+    "capa": "assets/capas/o-treinamento-dos-doze.PNG"
   },
   {
     "id": 18,
@@ -141,7 +141,7 @@
     "autor": "Silas Queiroz",
     "categoria": "Vida Cristã",
     "arquivo": "assets/livros/o-deus-que-governa-o-mundo.pdf",
-    "capa": "assets/capas/o-deus-que-governa-o-mundo.png"
+    "capa": "assets/capas/o-deus-que-governa-o-mundo.PNG"
   },
   {
     "id": 19,
@@ -149,7 +149,7 @@
     "autor": "Stanley M. Horton",
     "categoria": "Teologia",
     "arquivo": "assets/livros/teologia-sistematica-horton.pdf",
-    "capa": "assets/capas/teologia-sistematica-horton.png"
+    "capa": "assets/capas/teologia-sistematica-horton.PNG"
   },
   {
     "id": 20,
@@ -157,6 +157,6 @@
     "autor": "Antonio Gilberto",
     "categoria": "Teologia",
     "arquivo": "assets/livros/teologia-sistematica-pentecostal.pdf",
-    "capa": "assets/capas/teologia-sistematica-pentecostal.png"
+    "capa": "assets/capas/teologia-sistematica-pentecostal.PNG"
   }
 ]
