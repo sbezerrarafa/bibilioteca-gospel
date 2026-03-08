@@ -78,5 +78,85 @@
     "categoria": "Teologia",
     "arquivo": "assets/livros/o-jesus-historico.pdf",
     "capa": "assets/capas/o-jesus-historico.png"
+  },
+  {
+    "id": 11,
+    "titulo": "A Vida de Rute",
+    "autor": "Suzane S. J. Moreira",
+    "categoria": "Estudos Bíblicos",
+    "arquivo": "assets/livros/a-vida-de-rute.pdf",
+    "capa": "assets/capas/a-vida-de-rute.png"
+  },
+  {
+    "id": 12,
+    "titulo": "Além da Dor",
+    "autor": "Don Baker",
+    "categoria": "Vida Cristã",
+    "arquivo": "assets/livros/alem-da-dor.pdf",
+    "capa": "assets/capas/alem-da-dor.png"
+  },
+  {
+    "id": 13,
+    "titulo": "Curai Enfermos e Expulsai Demônios",
+    "autor": "T. L. Osborn",
+    "categoria": "Ministério",
+    "arquivo": "assets/livros/curai-enfermos.pdf",
+    "capa": "assets/capas/curai-enfermos.png"
+  },
+  {
+    "id": 14,
+    "titulo": "Doze Homens, Uma Missão",
+    "autor": "Aramis C. DeBarros",
+    "categoria": "Estudos Bíblicos",
+    "arquivo": "assets/livros/doze-homens-uma-missao.pdf",
+    "capa": "assets/capas/doze-homens-uma-missao.png"
+  },
+  {
+    "id": 15,
+    "titulo": "Ester na Casa da Pérsia",
+    "autor": "Emilio Garofalo Neto",
+    "categoria": "Estudos Bíblicos",
+    "arquivo": "assets/livros/ester-na-casa-da-persia.pdf",
+    "capa": "assets/capas/ester-na-casa-da-persia.png"
+  },
+  {
+    "id": 16,
+    "titulo": "Aspectos da Santificação",
+    "autor": "Material Teológico",
+    "categoria": "Teologia",
+    "arquivo": "assets/livros/aspectos-da-santificacao.pdf",
+    "capa": "assets/capas/sem-capa.png"
+  },
+  {
+    "id": 17,
+    "titulo": "O Treinamento dos Doze",
+    "autor": "A. B. Bruce",
+    "categoria": "Liderança Cristã",
+    "arquivo": "assets/livros/o-treinamento-dos-doze.pdf",
+    "capa": "assets/capas/o-treinamento-dos-doze.png"
+  },
+  {
+    "id": 18,
+    "titulo": "O Deus que Governa o Mundo e Cuida da Família",
+    "autor": "Silas Queiroz",
+    "categoria": "Vida Cristã",
+    "arquivo": "assets/livros/o-deus-que-governa-o-mundo.pdf",
+    "capa": "assets/capas/o-deus-que-governa-o-mundo.png"
+  },
+  {
+    "id": 19,
+    "titulo": "Teologia Sistemática",
+    "autor": "Stanley M. Horton",
+    "categoria": "Teologia",
+    "arquivo": "assets/livros/teologia-sistematica-horton.pdf",
+    "capa": "assets/capas/teologia-sistematica-horton.png"
+  },
+  {
+    "id": 20,
+    "titulo": "Teologia Sistemática Pentecostal",
+    "autor": "Antonio Gilberto",
+    "categoria": "Teologia",
+    "arquivo": "assets/livros/teologia-sistematica-pentecostal.pdf",
+    "capa": "assets/capas/teologia-sistematica-pentecostal.png"
   }
 ]
