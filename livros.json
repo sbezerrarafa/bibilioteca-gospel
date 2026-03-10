@@ -125,7 +125,7 @@
     "autor": "Material Teológico",
     "categoria": "Teologia",
     "arquivo": "assets/livros/aspectos-da-santificacao.pdf",
-    "capa": "assets/capas/sem-capa.PNG"
+    "capa": "assets/capas/sem-capa.png"
   },
   {
     "id": 17,
@@ -158,5 +158,165 @@
     "categoria": "Teologia",
     "arquivo": "assets/livros/teologia-sistematica-pentecostal.pdf",
     "capa": "assets/capas/teologia-sistematica-pentecostal.PNG"
+  },
+  {
+    "id": 21,
+    "titulo": "A Figueira Murcha",
+    "autor": "C. H. Spurgeon",
+    "categoria": "Sermões",
+    "arquivo": "assets/livros/a-figueira-murcha.pdf",
+    "capa": "assets/capas/a-figueira-murcha.PNG"
+  },
+  {
+    "id": 22,
+    "titulo": "A Manifestação do Espírito",
+    "autor": "Autor desconhecido",
+    "categoria": "Vida Cristã",
+    "arquivo": "assets/livros/a-manifestacao-do-espirito.pdf",
+    "capa": "assets/capas/a-manifestacao-do-espirito.PNG"
+  },
+  {
+    "id": 23,
+    "titulo": "A História da Igreja",
+    "autor": "Andrew Miller",
+    "categoria": "Histórico",
+    "arquivo": "assets/livros/a-historia-da-igreja.pdf",
+    "capa": "assets/capas/a-historia-da-igreja.PNG"
+  },
+  {
+    "id": 24,
+    "titulo": "Deus Não Tem Favoritos, Tem Íntimos",
+    "autor": "Autor desconhecido",
+    "categoria": "Vida Cristã",
+    "arquivo": "assets/livros/deus-nao-tem-favoritos-tem-intimos.pdf",
+    "capa": "assets/capas/deus-nao-tem-favoritos-tem-intimos.PNG"
+  },
+  {
+    "id": 25,
+    "titulo": "Deus Conosco",
+    "autor": "C. H. Spurgeon",
+    "categoria": "Sermões",
+    "arquivo": "assets/livros/deus-conosco.pdf",
+    "capa": "assets/capas/deus-conosco.PNG"
+  },
+  {
+    "id": 26,
+    "titulo": "Conversa Franca Sobre Medo",
+    "autor": "Joyce Meyer",
+    "categoria": "Vida Cristã",
+    "arquivo": "assets/livros/conversa-franca-sobre-medo.pdf",
+    "capa": "assets/capas/conversa-franca-sobre-medo.PNG"
+  },
+  {
+    "id": 27,
+    "titulo": "O Dia da Sua Vinda",
+    "autor": "Alceu L. Nunes",
+    "categoria": "Teologia",
+    "arquivo": "assets/livros/o-dia-da-sua-vinda.pdf",
+    "capa": "assets/capas/o-dia-da-sua-vinda.PNG"
+  },
+  {
+    "id": 28,
+    "titulo": "Um Manual de Guerra Espiritual",
+    "autor": "Roberto McAlister",
+    "categoria": "Vida Cristã",
+    "arquivo": "assets/livros/manual-de-guerra-espiritual.pdf",
+    "capa": "assets/capas/manual-de-guerra-espiritual.PNG"
+  },
+  {
+    "id": 29,
+    "titulo": "Sermões do Ano de Avivamento 1859",
+    "autor": "C. H. Spurgeon",
+    "categoria": "Sermões",
+    "arquivo": "assets/livros/sermoes-do-ano-de-avivamento-1859.pdf",
+    "capa": "assets/capas/sermoes-do-ano-de-avivamento-1859.PNG"
+  },
+  {
+    "id": 30,
+    "titulo": "Sermões e Devocionais",
+    "autor": "C. H. Spurgeon",
+    "categoria": "Sermões",
+    "arquivo": "assets/livros/sermoes-e-devocionais-spurgeon.pdf",
+    "capa": "assets/capas/sermoes-e-devocionais-spurgeon.PNG"
+  },
+  {
+    "id": 31,
+    "titulo": "Batalha Espiritual",
+    "autor": "Augustus Nicodemus Lopes",
+    "categoria": "Teologia",
+    "arquivo": "assets/livros/batalha-espiritual-augustus-nicodemus.pdf",
+    "capa": "assets/capas/batalha-espiritual-augustus-nicodemus.PNG"
+  },
+  {
+    "id": 32,
+    "titulo": "Batalha Espiritual",
+    "autor": "Esequias Soares",
+    "categoria": "Teologia",
+    "arquivo": "assets/livros/batalha-espiritual-esequias-soares.pdf",
+    "capa": "assets/capas/batalha-espiritual-esequias-soares.PNG"
+  },
+  {
+    "id": 33,
+    "titulo": "Cartas de um Diabo a seu Aprendiz",
+    "autor": "C. S. Lewis",
+    "categoria": "Teologia",
+    "arquivo": "assets/livros/cartas-de-um-diabo-a-seu-aprendiz.pdf",
+    "capa": "assets/capas/cartas-de-um-diabo-a-seu-aprendiz.PNG"
+  },
+  {
+    "id": 34,
+    "titulo": "Batalha Espiritual: Discernindo os agentes espirituais no dia-a-dia",
+    "autor": "Caio Fábio",
+    "categoria": "Vida Cristã",
+    "arquivo": "assets/livros/batalha-espiritual-caio-fabio.pdf",
+    "capa": "assets/capas/batalha-espiritual-caio-fabio.PNG"
+  },
+  {
+    "id": 35,
+    "titulo": "Guerra Espiritual",
+    "autor": "Gilberto Pickering",
+    "categoria": "Vida Cristã",
+    "arquivo": "assets/livros/guerra-espiritual-gilberto-pickering.pdf",
+    "capa": "assets/capas/guerra-espiritual-gilberto-pickering.PNG"
+  },
+  {
+    "id": 36,
+    "titulo": "Israel e a Igreja",
+    "autor": "George Eldon Ladd",
+    "categoria": "Teologia",
+    "arquivo": "assets/livros/israel-e-a-igreja.pdf",
+    "capa": "assets/capas/israel-e-a-igreja.PNG"
+  },
+  {
+    "id": 37,
+    "titulo": "A Divina Revelação da Guerra Espiritual",
+    "autor": "Mary K. Baxter",
+    "categoria": "Vida Cristã",
+    "arquivo": "assets/livros/a-divina-revelacao-da-guerra-espiritual.pdf",
+    "capa": "assets/capas/a-divina-revelacao-da-guerra-espiritual.PNG"
+  },
+  {
+    "id": 38,
+    "titulo": "Personagens Esquecidos da Bíblia",
+    "autor": "Josivaldo de França Pereira",
+    "categoria": "Estudos Bíblicos",
+    "arquivo": "assets/livros/personagens-esquecidos-da-biblia.pdf",
+    "capa": "assets/capas/personagens-esquecidos-da-biblia.PNG"
+  },
+  {
+    "id": 39,
+    "titulo": "Estratégias Espirituais: Um Manual para a Guerra Espiritual",
+    "autor": "Harvestime International",
+    "categoria": "Estudos Bíblicos",
+    "arquivo": "assets/livros/estrategias-espirituais.pdf",
+    "capa": "assets/capas/estrategias-espirituais.PNG"
+  },
+  {
+    "id": 40,
+    "titulo": "Quatro Princípios Bíblicos para se Entender a Batalha Espiritual",
+    "autor": "Augustus Nicodemus Lopes",
+    "categoria": "Teologia",
+    "arquivo": "assets/livros/quatro-principios-biblicos-batalha-espiritual.pdf",
+    "capa": "assets/capas/quatro-principios-biblicos-batalha-espiritual.PNG"
   }
 ]

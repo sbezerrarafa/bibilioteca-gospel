@@ -10,6 +10,12 @@
     <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&display=swap" rel="stylesheet">
     <link rel="icon" type="image/x-icon" href="assets/imgs/favicon.png">
     <link rel="stylesheet" href="./style.css">
+    <link rel="manifest" href="manifest.json">
+    <meta name="theme-color" content="#1a3a5f">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+    <meta name="apple-mobile-web-app-title" content="Biblioteca Gospel">
+    <link rel="apple-touch-icon" href="assets/icons/icon-192.png">
     
 </head>
 <body>
@@ -45,7 +51,19 @@
             <span class="material-symbols-outlined">favorite</span>FAVORITOS
         </a>
     </nav>
-
+    <script>
+    if ('serviceWorker' in navigator) {
+        window.addEventListener('load', () => {
+            navigator.serviceWorker.register('./service-worker.js')
+            .then((registration) => {
+                console.log('Service Worker registrado com sucesso:', registration);
+            })
+            .catch((error) => {
+                console.log('Erro ao registrar o Service Worker:', error);
+            });
+        });
+    }
+    </script>
     <script src="script.js"></script>
 </body>
 </html>
