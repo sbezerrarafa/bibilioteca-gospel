@@ -318,5 +318,205 @@
     "categoria": "Teologia",
     "arquivo": "assets/livros/quatro-principios-biblicos-batalha-espiritual.pdf",
     "capa": "assets/capas/quatro-principios-biblicos-batalha-espiritual.PNG"
+  },
+  {
+    "id": 41,
+    "titulo": "Paulo de Tarso: Grego e Romano, Judeu e Cristão",
+    "autor": "José Augusto Ramos, Maria Cristina de Sousa Pimentel, Maria do Céu Fialho e Nuno Simões Rodrigues",
+    "categoria": "Teologia",
+    "arquivo": "assets/livros/paulo-de-tarso.pdf",
+    "capa": "assets/capas/paulo-de-tarso.PNG"
+  },
+  {
+    "id": 42,
+    "titulo": "A História da Pregação Vol. 1",
+    "autor": "Benjamin K. Forrest, Kevin L. King, Bill Curtis e Dwayne Milioni",
+    "categoria": "Teologia",
+    "arquivo": "assets/livros/a-historia-da-pregação-vol-1.pdf",
+    "capa": "assets/capas/a-historia-da-pregação-vol-1.PNG"
+  },
+  {
+    "id": 43,
+    "titulo": "A História da Pregação Vol. 2",
+    "autor": "Benjamin K. Forrest, Kevin L. King, Bill Curtis e Dwayne Milioni",
+    "categoria": "Teologia",
+    "arquivo": "assets/livros/a-historia-da-pregação-vol-2.pdf",
+    "capa": "assets/capas/a-historia-da-pregação-vol-2.PNG"
+  },
+  {
+    "id": 44,
+    "titulo": "A Poderosa Fraqueza de John Knox",
+    "autor": "Douglas Bond",
+    "categoria": "Teologia",
+    "arquivo": "assets/livros/a-poderosa-fraqueza-de-john-knox.pdf",
+    "capa": "assets/capas/a-poderosa-fraqueza-de-john-knox.PNG"
+  },
+  {
+    "id": 45,
+    "titulo": "Agentes do Apocalipse",
+    "autor": "David Jeremiah",
+    "categoria": "Teologia",
+    "arquivo": "assets/livros/agentes-do-apocalipse.pdf",
+    "capa": "assets/capas/agentes-do-apocalipse.PNG"
+  },
+  {
+    "id": 46,
+    "titulo": "Conselhos para Obreiros",
+    "autor": "Charles H. Spurgeon",
+    "categoria": "Teologia",
+    "arquivo": "assets/livros/conselhos-para-obreiros.pdf",
+    "capa": "assets/capas/conselhos-para-obreiros.PNG"
+  },
+  {
+    "id": 47,
+    "titulo": "História da Igreja Volume 1: Dos dias de Cristo à Pré-Reforma",
+    "autor": "Everett Ferguson",
+    "categoria": "Teologia",
+    "arquivo": "assets/livros/documento-de-idevaldo.pdf",
+    "capa": "assets/capas/documento-de-idevaldo.PNG"
+  },
+  {
+    "id": 48,
+    "titulo": "Poder Através da Oração",
+    "autor": "Edward McKendree Bounds",
+    "categoria": "Teologia",
+    "arquivo": "assets/livros/o-poder-da-oracao.pdf",
+    "capa": "assets/capas/o-poder-da-oracao.PNG"
+  },
+  {
+    "id": 49,
+    "titulo": "O Zelo Evangelístico de George Whitefield",
+    "autor": "Steven J. Lawson",
+    "categoria": "Teologia",
+    "arquivo": "assets/livros/o-zelo-evangelistico-de-george.pdf",
+    "capa": "assets/capas/o-zelo-evangelistico-de-george.PNG"
+  },
+  {
+    "id": 50,
+    "titulo": "O Foco Evangélico de Charles Spurgeon",
+    "autor": "Steven J. Lawson",
+    "categoria": "Teologia",
+    "arquivo": "assets/livros/o-foco-evangelico-de-charles-spurgeon.pdf",
+    "capa": "assets/capas/o-foco-evangelico-de-charles-spurgeon.PNG"
+  },
+  {
+    "id": 51,
+    "titulo": "Paulo o maior líder do cristianisnmo",
+    "autor": "Hernandes Dias Lopes",
+    "categoria": "Teologia",
+    "arquivo": "assets/livros/paulo-o-maior-lider-do-cristianismo.pdf",
+    "capa": "assets/capas/paulo-o-maior-lider-do-cristianismo.PNG"
+  },
+  {
+    "id": 52,
+    "titulo": "A Difícil Missão de William Tyndale",
+    "autor": "Steven J. Lawson",
+    "categoria": "Teologia",
+    "arquivo": "assets/livros/a-dificil-missao-de-william-tyndale.pdf",
+    "capa": "assets/capas/a-dificil-missao-de-william-tyndale.PNG"
+  },
+  {
+    "id": 53,
+    "titulo": "A Era dos Mártires",
+    "autor": "Justo L. González",
+    "categoria": "Histórico",
+    "arquivo": "assets/livros/a-era-dos-martires.pdf",
+    "capa": "assets/capas/a-era-dos-martires.PNG"
+  },
+  {
+    "id": 54,
+    "titulo": "As Catacumbas de Roma",
+    "autor": "Benjamin Scott",
+    "categoria": "Histórico",
+    "arquivo": "assets/livros/as-catacumbas-de-roma.pdf",
+    "capa": "assets/capas/as-catacumbas-de-roma.PNG"
+  },
+  {
+    "id": 55,
+    "titulo": "Conhecendo as Doutrinas da Bíblia",
+    "autor": "Myer Pearlman",
+    "categoria": "Teologia",
+    "arquivo": "assets/livros/conhecendo-as-doutrinas-da-biblia.pdf",
+    "capa": "assets/capas/conhecendo-as-doutrinas-da-biblia.PNG"
+  },
+  {
+    "id": 56,
+    "titulo": "Dicionário de Palavras, Expressões, Interpretação e Curiosidades Bíblicas",
+    "autor": "Elias Soares de Moraes",
+    "categoria": "Estudos Bíblicos",
+    "arquivo": "assets/livros/dicionario-de-palavras-expressoes-interpretacao-e-curiosidades-biblicas.pdf",
+    "capa": "assets/capas/dicionario-de-palavras-expressoes-interpretacao-e-curiosidades-biblicas.PNG"
+  },
+  {
+    "id": 57,
+    "titulo": "Jesus, o Amado da Alma da Mulher",
+    "autor": "Rebecca Lutzer e Erwin Lutzer",
+    "categoria": "Vida Cristã",
+    "arquivo": "assets/livros/jesus-o-amado-da-alma-da-mulher.pdf",
+    "capa": "assets/capas/jesus-o-amado-da-alma-da-mulher.PNG"
+  },
+  {
+    "id": 58,
+    "titulo": "Manual da Escola Dominical",
+    "autor": "Antonio Gilberto",
+    "categoria": "Ministério",
+    "arquivo": "assets/livros/manual-da-escola-dominical.pdf",
+    "capa": "assets/capas/manual-da-escola-dominical.PNG"
+  },
+  {
+    "id": 59,
+    "titulo": "O Corpo de Cristo",
+    "autor": "José Gonçalves",
+    "categoria": "Teologia",
+    "arquivo": "assets/livros/o-corpo-de-cristo.pdf",
+    "capa": "assets/capas/o-corpo-de-cristo.PNG"
+  },
+  {
+    "id": 60,
+    "titulo": "O Livro dos Mártires",
+    "autor": "John Foxe",
+    "categoria": "Histórico",
+    "arquivo": "assets/livros/o-livro-dos-martires.pdf",
+    "capa": "assets/capas/o-livro-dos-martires.PNG"
+  },
+  {
+    "id": 61,
+    "titulo": "Os Mártires do Coliseu",
+    "autor": "A. J. O'Reilly",
+    "categoria": "Histórico",
+    "arquivo": "assets/livros/os-martires-do-coliseu.pdf",
+    "capa": "assets/capas/os-martires-do-coliseu.PNG"
+  },
+  {
+    "id": 62,
+    "titulo": "A Santíssima Trindade",
+    "autor": "Alexandre Coelho",
+    "categoria": "Teologia",
+    "arquivo": "assets/livros/a-santissima-trindade-devocional.pdf",
+    "capa": "assets/capas/a-santissima-trindade-devocional.PNG"
+  },
+  {
+    "id": 63,
+    "titulo": "Plano Perfeito",
+    "autor": "Marcelo Oliveira",
+    "categoria": "Teologia",
+    "arquivo": "assets/livros/plano-perfeito.pdf",
+    "capa": "assets/capas/plano-perfeito.PNG"
+  },
+  {
+    "id": 64,
+    "titulo": "Tempo do Fim",
+    "autor": "Juliano Fraga",
+    "categoria": "Teologia",
+    "arquivo": "assets/livros/tempo-do-fim.pdf",
+    "capa": "assets/capas/tempo-do-fim.PNG"
+  },
+  {
+    "id": 65,
+    "titulo": "A Santíssima Trindade",
+    "autor": "Douglas Baptista",
+    "categoria": "Teologia",
+    "arquivo": "assets/livros/a-santissima-trindade-douglas-baptista.pdf",
+    "capa": "assets/capas/a-santissima-trindade-douglas-baptista.PNG"
   }
 ]
