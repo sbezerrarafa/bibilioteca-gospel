@@ -205,3 +205,38 @@ body {
 
 .nav-link-custom.active { color: var(--primary-color); }
 .nav-link-custom .material-symbols-outlined { display: block; margin-bottom: 2px; }
+
+.pagination-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 8px;
+  padding: 20px 0;
+}
+
+.page-btn {
+  border: 1px solid #dcdcdc;
+  background: white;
+  color: var(--primary-color);
+  border-radius: 10px;
+  padding: 8px 14px;
+  font-weight: 700;
+  font-size: 0.9rem;
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.page-btn:hover:not(:disabled) {
+  background: #eef4fb;
+}
+
+.page-btn.active {
+  background: var(--primary-color);
+  color: white;
+  border-color: var(--primary-color);
+}
+
+.page-btn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
